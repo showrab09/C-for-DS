@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "any": "cpp",
+    "array": "cpp",
+    "fstream": "cpp",
+    "optional": "cpp",
+    "shared_mutex": "cpp",
+    "sstream": "cpp",
+    "tuple": "cpp",
+    "variant": "cpp",
+    "iostream": "cpp",
+    "*.tcc": "cpp"
+  }
+}
