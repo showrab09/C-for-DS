@@ -11,14 +11,14 @@ int main()
         cin >> s >> x;
         int pos = 0;
         int xsize = x.size();
-        int not_found = -1;
 
-        while ((pos = s.find(x, pos)) != not_found)
+        while ((pos = s.find(x, pos)) != -1)
         {
             s.replace(pos, xsize, "#");
             pos++;
         }
 
+        cout << s << endl;
         cout << s << endl;
     }
 

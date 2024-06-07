@@ -9,6 +9,8 @@
     "tuple": "cpp",
     "variant": "cpp",
     "iostream": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "iosfwd": "cpp",
+    "ostream": "cpp"
   }
 }
